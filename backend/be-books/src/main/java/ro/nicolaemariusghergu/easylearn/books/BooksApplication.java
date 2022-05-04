@@ -1,13 +1,13 @@
-package ro.nicolaemariusghergu.easylearn.core;
+package ro.nicolaemariusghergu.easylearn.books;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CoreApplication {
+public class BooksApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CoreApplication.class, args);
+        SpringApplication.run(BooksApplication.class, args);
     }
 
 }

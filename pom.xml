@@ -25,7 +25,7 @@
     </dependencies>
 
     <modules>
-        <module>backend/be-core</module>
+        <module>backend/be-books</module>
         <module>backend/auth</module>
     </modules>
 

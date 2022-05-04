@@ -1,10 +1,10 @@
-package ro.nicolaemariusghergu.easylearn.core;
+package ro.nicolaemariusghergu.easylearn.books;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CoreApplicationTests {
+class BooksApplicationTests {
 
     @Test
     void contextLoads() {
