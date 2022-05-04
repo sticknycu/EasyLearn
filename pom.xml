@@ -26,6 +26,7 @@
 
     <modules>
         <module>backend/be-core</module>
+        <module>backend/auth</module>
     </modules>
 
     <packaging>pom</packaging>
