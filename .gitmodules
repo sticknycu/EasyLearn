@@ -1,0 +1,3 @@
+[submodule "backend/easylearn_books_be"]
+	path = backend/easylearn_books_be
+	url = https://github.com/nicugnm/easylearn_books_be.git
